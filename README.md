@@ -1,225 +1,63 @@
-<div align="center">
+# Antonio Capel Ramírez
 
-# 👋 ¡Hola! Soy Antonio Capel
+**Junior AI & Data Engineer** · Python · SQL · Data Pipelines · Full Stack
 
-### Desarrollador Frontend | Estudiante DAW | JavaScript & IA aplicada a negocios
+📍 Málaga (presencial, híbrido o remoto) · 🇬🇧 Inglés C1 · 🇫🇷 Francés B2 · 🇪🇸 Español nativo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Capel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-capel-ramirez)
-[![Portfolio](https://img.shields.io/badge/Portfolio-antonio--capel.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://antonio-capel.notion.site)
-[![Email](https://img.shields.io/badge/Email-antonio.capel.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.capel.dev@gmail.com)
-
-🎓 **Técnico Superior en DAW (en curso)** | 💼 **Open to Work / Prácticas** | 📍 **Málaga, España**
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Capel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-capel-ramirez-7100a0201/)
+[![Email](https://img.shields.io/badge/Email-antoniomiguelcapelramirez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniomiguelcapelramirez@gmail.com)
+[![JobScore](https://img.shields.io/badge/Demo-JobScore_Dashboard-10B981?style=for-the-badge)](https://job-score-dashboard-5wux.vercel.app)
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Soy desarrollador Frontend en formación con experiencia previa en **liderazgo de equipos** y **emprendimiento**.  
-Mi foco actual está en:
+Técnico Superior en Desarrollo de Aplicaciones Web y estudiante del Curso de Especialización en Inteligencia Artificial y Big Data (Digitech, Málaga). Construyo pipelines de datos en Python sobre PostgreSQL, los expongo con APIs REST e integro modelos de lenguaje en aplicaciones desplegadas.
 
-- **JavaScript** y desarrollo web clásico (HTML5 + CSS3 + JS)
-- Primeros pasos con **React** (nivel inicial, en aprendizaje)
-- **IA aplicada a negocios** como apoyo al desarrollo, la productividad y la toma de decisiones
+Antes de programar fundé y dirigí Movilecom (telecomunicaciones y seguridad) y coordiné equipos comerciales en Vodafone. De ahí viene mi forma de trabajar: traducir necesidades de negocio en requisitos técnicos y resolver incidencias con el cliente delante.
 
-No soy especialista aún: estoy construyendo base sólida con proyectos reales y mucha disciplina.
+## Proyectos
 
-- 🌱 Cursando **2º de Desarrollo de Aplicaciones Web (DAW)**
-- 💻 Foco principal: **Frontend con JavaScript, HTML5 y CSS3**
-- 🤖 Interés real en **IA aplicada al desarrollo y a los negocios**
-- 🔐 Conocimientos básicos de **ciberseguridad web**
-- 🎯 Objetivo: realizar prácticas y evolucionar hacia **Frontend Developer** en 2026
-- 🌍 Experiencia internacional en **Francia** (2022–2024) — Voluntariado europeo
+### [JobScore Dashboard](https://github.com/antonio-capel-dev/JobScore-Dashboard) · [demo pública](https://job-score-dashboard-5wux.vercel.app)
 
----
+Pipeline ETL que extrae ofertas tech (API de Adzuna y Tecnoempleo), las normaliza con pandas, las carga sin duplicados en PostgreSQL/Supabase y las puntúa de 0 a 100 con un LLM. Ejecución diaria con node-cron, alertas por Telegram y dashboard público de solo lectura en React + TypeScript; la edición queda reservada al propietario.
 
-## 🛠️ Stack Tecnológico
+`Python` `pandas` `PostgreSQL` `Supabase` `Node.js` `Express` `TypeScript` `React` `Vitest`
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React_(básico)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Asistente RAG para documentación técnica · *en desarrollo*
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java_(básico)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Ingesta y chunking de documentación, embeddings, base de datos vectorial y recuperación semántica con citación de fuentes, servido con una API en FastAPI.
 
-### Python (nivel inicial)
-![Python](https://img.shields.io/badge/Python_(iniciación)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+`Python` `FastAPI` `embeddings` `vector DB` `LLM APIs`
 
-> Actualmente en conceptos básicos (listas, diccionarios, control de flujo). Sin proyectos propios aún.
+### [MUMA Bat Company](https://github.com/antonio-capel-dev/muma-bat-company) · [web](http://www.mumabatcompany.com/)
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_básico-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Plataforma web corporativa de la idea a producción durante mis prácticas en el Polo Digital de Málaga: modelo de datos y backend en Supabase/PostgreSQL, APIs, autenticación, panel de administración y frontend.
 
-### IA / Apoyo al desarrollo
-- Ingeniería de prompts **básica**
-- Uso de herramientas de IA (como ChatGPT) para:
-  - generar ideas
-  - revisar código
-  - apoyar documentación y exploración de soluciones
+`React` `TypeScript` `Astro` `Supabase`
 
----
+### [Villalobos Logística 2.0](https://github.com/antonio-capel-dev/villalobos-logistica-2-0) · [app](https://app.villaloboslogistica.com)
 
-## 📂 Proyectos Destacados
+Proyecto final de DAW sobre un caso real de logística: portes, presupuestos y roles de usuario, con dashboard de KPIs y análisis de rentabilidad con SQL.
 
-### 📱 Tienda de Móviles
-**Mi proyecto más completo y avanzado**  
-`HTML` `CSS` `JavaScript`
+`SQL` `MySQL` `Python` `JavaScript` `PHP`
 
-- Catálogo de móviles totalmente gestionado en frontend  
-- Interfaz rápida, ligera y centrada en la experiencia de usuario  
-- Uso de JavaScript para interacción, navegación y dinamismo  
+## Stack
 
----
+- **Datos e IA:** Python, SQL, pandas, PostgreSQL (Supabase), MySQL, scikit-learn, LLMs, RAG, embeddings
+- **Backend y APIs:** FastAPI, Node.js, Express, APIs REST, Supabase Auth
+- **Frontend:** React, TypeScript, Astro, Tailwind CSS
+- **Herramientas:** Git, GitHub, Docker, Vitest, Vercel, Render
 
-### 🛒 Tienda SM
-**Segunda tienda online creada desde cero**  
-`PHP` `Bootstrap` `MySQL`
+## Experiencia
 
-- Listado de productos gestionado desde base de datos  
-- Carrito básico y estructura de tienda online  
-- Maquetación responsive con Bootstrap  
+- **Desarrollador Full Stack (prácticas)** — MUMA Bat Company, Polo Digital (Málaga) · mar.–ago. 2026
+- **Fundador y director** — Movilecom, telecomunicaciones y seguridad · 2018–2022
+- **Coordinador de equipos comerciales** — Vodafone · 2015–2018
 
----
+## Formación
 
-### 🛡️ ProtegeAhora.com
-**Proyecto WordPress real orientado a captación y presencia profesional**  
-`WordPress` `Elementor` `SEO básico`
-
-- Estructura pensada para explicar servicios y generar confianza  
-- Páginas orientadas a conversión (contacto, servicios, llamada a la acción)  
-- Optimización básica para posicionamiento y velocidad  
-
----
-
-### 🍕 [La Góndola de Ydai](https://github.com/antonio-capel-dev/gondola-restaurant)
-**Web corporativa para restaurante local**  
-`HTML5` `CSS3` `JavaScript` `Responsive Design`
-
-- Página adaptable para un negocio real  
-- Secciones de carta y categorías de productos  
-- Estructura pensada para SEO básico y facilidad de uso  
-
----
-
-### 📦 [Villalobos Logística 2.0](https://github.com/antonio-capel-dev/villalobos-logistics)
-**Portal web para empresa familiar**  
-`HTML` `CSS` `PHP` `JavaScript` `MySQL`
-
-- Sistema de gestión sencillo para la empresa  
-- Formularios de contacto y estructura informativa  
-- Refuerzo de conceptos de PHP y bases de datos  
-
----
-
-### 👥 [Gestor de Contactos](https://github.com/antonio-capel-dev/contact-manager)
-**Aplicación de escritorio CRUD**  
-`Java Swing` `MySQL` `MVC`
-
-- Alta, baja, modificación y listado de contactos  
-- Uso de patrón MVC  
-- Primer contacto con aplicaciones de escritorio conectadas a BD  
-
----
-
-### 🌐 [Portfolio Personal](https://antonio-capel.notion.site)
-**Portfolio profesional en Notion**
-
-- Recopilación de proyectos  
-- Resumen de habilidades y trayectoria  
-- Orientado a recruiters y empresas tech  
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-capel-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-capel-dev&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🎓 Formación
-
-- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — Digitech (2024–2026)  
-- 🔐 **Diploma en Ciberseguridad** — Next Generation EU (2025)  
-- 🌍 **Estancia internacional en Francia** — Voluntariado europeo (2022–2024)  
-- 📚 **Grado en Historia** (parcial) — Universidad de Málaga  
-
----
-
-## 💼 Experiencia
-
-### Autónomo – Movilecom | 2018 – 2022
-Emprendedor en telecomunicaciones y seguridad.  
-Gestión integral del negocio: ventas, marketing, soporte técnico y atención al cliente.
-
-### Coordinador de Equipos — Vodafone | 2015 – 2018
-Liderazgo de equipos comerciales, formación de empleados y mejora de KPIs.  
-Desarrollo de habilidades en gestión, comunicación y resolución de conflictos.
-
----
-
-## 🌍 Idiomas
-
-- 🇬🇧 **Inglés**: B2 (competencia funcional, en progreso)  
-- 🇫🇷 **Francés**: B2 (2 años de experiencia internacional)  
-- 🇪🇸 **Español**: Nativo  
-
----
-
-## 💡 Soft Skills
-
-✅ Responsabilidad personal  
-✅ Disciplina y persistencia  
-✅ Iniciativa y proactividad  
-✅ Gestión del tiempo  
-✅ Ética profesional  
-✅ Adaptabilidad  
-✅ Liderazgo colaborativo  
-
----
-
-## 🎯 Objetivo Profesional
-
-> Mi objetivo es realizar prácticas y desarrollar mi carrera como **Frontend Developer**, aplicando buenas prácticas y creando soluciones digitales **útiles y centradas en las personas**, usando la IA como apoyo.
-
----
-
-## 🧠 Frase / Filosofía
-
-> **“El código es el medio; el crecimiento, la meta.”**
-
----
-
-## 📫 Contacto
-
-<div align="center">
-
-📧 **Email:** antonio.capel.dev@gmail.com  
-💼 **LinkedIn:** [Antonio Capel Ramírez](https://www.linkedin.com/in/antonio-capel-ramirez)  
-🌐 **Portfolio:** [antonio-capel.notion.site](https://antonio-capel.notion.site)  
-📱 **Teléfono:** 681 875 243  
-📍 **Ubicación:** Rincón de la Victoria, Málaga (España)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ **Si te gusta mi trabajo, puedes dejar una estrella en mis repositorios** ⭐️
-
-</div>
+- Curso de Especialización en Inteligencia Artificial y Big Data — Digitech FP Málaga · 2026–2027 (en curso)
+- Técnico Superior en Desarrollo de Aplicaciones Web (DAW) — Digitech FP Málaga · 2024–2026
+- Full Stack Open — Universidad de Helsinki · 2026
+- Diploma en Ciberseguridad — Next Generation EU · 2025
