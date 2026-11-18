@@ -4,7 +4,7 @@
 
 📍 Málaga (presencial, híbrido o remoto) · 🇬🇧 Inglés C1 · 🇫🇷 Francés B2 · 🇪🇸 Español nativo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Capel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-capel-ramirez-7100a0201/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Capel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-capel-dev/)
 [![Email](https://img.shields.io/badge/Email-antoniomiguelcapelramirez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniomiguelcapelramirez@gmail.com)
 [![JobScore](https://img.shields.io/badge/Demo-JobScore_Dashboard-10B981?style=for-the-badge)](https://job-score-dashboard-5wux.vercel.app)
 
